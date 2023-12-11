@@ -1,0 +1,1 @@
+Entre los montones de basura, Destello quiere plantar una nueva flor. Tras fallar intentando crear una gran flor, consigue crearla a partir de crear múltiples plantas más pequeñas.
