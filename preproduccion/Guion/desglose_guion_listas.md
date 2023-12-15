@@ -31,10 +31,10 @@
 
 ## Desglose de escena
 
-- Esc.001 < 1/8
-- Esc.002 < 1.5/8
-- Esc.003 < 1.5/8
-- Esc.004 < 2.5/8
+- Esc.001 < 1/8, !!1
+- Esc.002 < 1.5/8, !!3
+- Esc.003 < 1.5/8, !!2
+- Esc.004 < 2.5/8, !!1
 
 |Scene Number|Description|Number of Breakdown Sheet|Page Count|Location Name and Number|Characters names and numbers|Props|VFX|Complexity notes|
 |---|---|---|---|---|---|---|---|---|
