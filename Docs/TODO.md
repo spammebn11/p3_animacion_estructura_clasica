@@ -1,0 +1,1 @@
+Ajustar desglose de guión a nuevo guión
