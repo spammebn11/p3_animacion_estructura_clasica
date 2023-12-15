@@ -1,10 +1,10 @@
 # Destello 
 ## Por: Néstor González Hernández
-## Borrador 1
+## Borrador 2
 
 ### EXT, Colinas de basura - Esc.001
 
-Moviéndose entre las colinas de basura, vemos un DESTELLO. La única fuente de luz. Este se mueve con propósito. 
+Moviéndose entre las colinas de basura, vemos un DESTELLO (Destello es una bola de luz voladora que interactúa con el mundo usando magia). La única fuente de luz. Este se mueve con propósito. 
 Mientras pasa, entra en una televisión, encendiéndola. Esta se comienza a apagar poco después de que DESTELLO salga.
 
 ### EXT, Lago - Esc.002
