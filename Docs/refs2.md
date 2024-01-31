@@ -1,1 +1,0 @@
-![navi sounds](https://www.youtube.com/watch?v=K2fIMjGF8tY)
